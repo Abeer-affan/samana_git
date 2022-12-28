@@ -6,6 +6,6 @@ My reminder exercise
 ---
 ________________
 
-**I like my project **
+** I like my project **
 
 
