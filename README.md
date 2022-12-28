@@ -1,4 +1,4 @@
-#Smana repository
-##Freated : Abeer Affan
+# Smana repository
+## Created : Abeer Affan
 My reminder exercise
 
